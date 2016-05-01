@@ -1,0 +1,4 @@
+# Art. 4a Attribution et retrait d'une tâche particulière
+1 Le Gouvernement décide de l'attribution, du retrait et de la valeur de la tâche particulière d'adjoint, sur proposition du chef de l'unité administrative. Cette attribution peut être retirée moyennant le respect d'un délai de trois mois pour la fin d'un mois.
+2 Le chef de département décide de l'attribution et du retrait des autres tâches particulières, sur proposition du chef de l'unité administrative. Cette attribution peut être retirée moyennant le respect d'un délai de trois mois pour la fin d'un mois.
+3 En cas de retrait d'une tâche particulière, le titulaire n'a pas droit au maintien de la rémunération complémentaire liée à cette tâche. Il ne bénéficie pas de la garantie de salaire prévue à l'article 22, alinéa 3, du décret sur les traitements du personnel de l'Etat.
