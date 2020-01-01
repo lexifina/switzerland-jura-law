@@ -1,0 +1,5 @@
+# Art. 94a 3bis. Taxes liées aux eaux pluviales
+1 Pour tenir compte des coûts induits par les eaux pluviales, les communes peuvent appliquer une taxe de 1 franc par m2 au maximum pour les surfaces imperméabilisées supérieures à 1 000 m2 et raccordées au réseau de conduites publiques. Cette taxe est applicable à toutes les surfaces publiques ou privées, à l'exception des routes cantonales et des immeubles d'habitation.
+2 Si, conformément au PGEE, les eaux pluviales d'un bien-fonds sont évacuées par infiltration ou rejetées dans un cours d'eau sans utiliser les installations communales, les communes peuvent réduire les taxes du propriétaire du bien-fonds concerné comme suit :
+a) réduction de 15 % au maximum des taxes liées à l'assainissement si aucune eau pluviale de toitures n'a pour exutoire une canalisation communale;
+b) réduction de 5 % au maximum des taxes liées à l'assainissement si aucune eau pluviale de surface de circulation et de stationnement n'a pour exutoire une canalisation communale.
