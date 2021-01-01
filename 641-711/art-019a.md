@@ -1,0 +1,3 @@
+# Art. 19a Règlement des cas de rigueur
+1 A la demande des personnes imposées à la source qui versent des contributions d’entretien au sens de l’article 32, alinéa 1, lettre c, LI selon les barèmes A, B ou C, le Service des contributions peut, pour atténuer les cas de rigueur dans le calcul de l’impôt à la source, accorder les déductions pour enfants jusqu’à hauteur des contributions d’entretien.
+2 Si les contributions d’entretien ont été prises en compte lors de l’application de l’un de ces barèmes, la taxation ordinaire ultérieure n’est appliquée que si la personne imposée à la source en fait la demande. Le cas échéant, la taxation ordinaire ultérieure est appliquée jusqu’à la fin de son assujettissement à l’impôt à la source.
