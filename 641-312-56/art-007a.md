@@ -1,0 +1,3 @@
+# Art. 7a Frais de déplacement en cas d'utilisation gratuite d'un véhicule de fonction à des fins privées
+1 S'il utilise gratuitement un véhicule de fonction pour des déplacements entre son lieu de domicile et son lieu de travail et à d'autres fins privées, le contribuable peut procéder à un calcul forfaitaire de ses frais de déplacement au lieu d'établir un décompte des frais effectifs de l'utilisation privée et de faire valoir la déduction des frais de déplacement visée à l'article 7.
+2 Aux fins du calcul forfaitaire des frais de déplacement, 0,9 % du prix d'achat du véhicule est considéré comme un revenu mensuel provenant de cette utilisation.
