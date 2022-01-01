@@ -1,0 +1,4 @@
+# Art. 17b Utilisation des données
+1 Les données récoltées sont exploitées par le Service juridique. Les employés affectés à cette tâche peuvent les consulter dans le cadre du traitement du dossier. Le juge qui a ordonné la mesure peut par ailleurs en prendre connaissance en tout temps.
+2 Les indications techniques selon lesquelles l’auteur de l’atteinte aurait enfreint les conditions posées sont analysées a posteriori, en principe le jour ouvrable suivant.
+3 En cas de soupçons de non-respect des conditions, elles sont transmises sans délai au juge qui a ordonné la mesure. Ce dernier donne les suites utiles, en application du Code civil suisse et de la législation cantonale. En cas d’urgence, le Service juridique peut informer immédiatement le juge de permanence, les autorités judiciaires et les autorités de police compétentes.
