@@ -1,0 +1,5 @@
+# Art. 65a Limitation de l'accès au Parlement en période de pandémie de COVID-19
+1 Lors des séances du Parlement, toute personne âgée de 16 ans ou plus n'a accès à l'Hôtel du Parlement que sur présentation d'un certificat COVID-19 valide conformément à l'article 6a de la loi fédérale du 25 septembre 2020 sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l’épidémie de COVID-19. Le Bureau du Parlement peut suspendre cette mesure si la situation épidémiologique le permet.
+2 Pour les personnes qui doivent impérativement avoir accès à l'Hôtel du Parlement, les coûts des tests nécessaires à l'établissement du certificat sont remboursés. Le Bureau du Parlement détermine les catégories de personnes ayant droit au remboursement.
+3 Le Bureau règle les modalités du contrôle du certificat.
+4 Les députés qui ne présentent pas de certificat ont accès à l'Hôtel du Parlement s'ils portent un masque à l'intérieur de celui-ci. Le Secrétariat du Parlement tient une liste de ces députés.
