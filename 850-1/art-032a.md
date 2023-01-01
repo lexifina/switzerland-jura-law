@@ -1,0 +1,3 @@
+# Art. 32a Communication de la décision à des tiers
+1 Le Service de l'action sociale communique sa décision relative à la demande d'aide sociale à la commune de domicile ou de séjour ainsi qu'aux autorités, organismes et tiers dont l'octroi ou le remboursement de prestations sont directement influencés par la décision. Il en va de même lorsque l'aide sociale a été accordée à titre d'avances sur d'autres prestations sociales et que le versement de celles- ci devra s'effectuer en mains des autorités d'aide sociale.
+2 Les autorités, organismes et tiers auxquels la décision est communiquée sont tenus au devoir de discrétion conformément à l'article 11 de la présente loi.
