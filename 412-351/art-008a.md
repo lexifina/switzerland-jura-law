@@ -1,0 +1,4 @@
+# Art. 8a Branches sans examen
+1 Les disciplines suivantes comptent comme branches de la maturité gymnasiale sans examen :  la troisième langue;  la biologie;  la chimie;  la physique;  l'histoire;  la géographie;  les arts visuels ou la musique;  la philosophie.
+2 Le Département peut prévoir d'autres branches sans examen pour le Lycée cantonal.
+3 A l'exception de celui délivré à l'élève qui pratique une activité sportive ou artistique à caractère sportif au bénéfice d'un allègement d'horaire octroyé en vertu de l'article 37 des directives du 7 juin 2022 concernant la formation des élèves artistes ou sportifs prometteurs ou reconnus de haut niveau dans les écoles des niveaux secondaires I et Il, le certificat de maturité gymnasiale comprend une note d'éducation physique et sportive qui n'entre toutefois pas en ligne de compte pour le nombre de points ni pour celui des insuffisances.
