@@ -1,0 +1,4 @@
+# Art. 9a 5. Investisse- ments destinés à économiser l'énergie et à ménager l'environnement
+1 Sont réputés investissements destinés à économiser l'énergie et à ménager l'environnement les frais encourus en vue de rationaliser la consommation d'énergie ou de recourir aux énergies renouvelables. Ces investissements concernent le remplacement d'éléments de construction ou d'installations vétustes et l'adjonction d'éléments de construction ou d'installations dans des bâtiments existants.
+2 Si les mesures sont subventionnées par la collectivité publique, le contribuable ne peut déduire que les frais qu'il assume lui-même.
+3 Les dispositions adoptées par le Département fédéral des finances, qui désignent dans le détail les mesures en faveur de l'utilisation rationnelle de l'énergie et du recours aux énergies renouvelables qui sont assimilées aux frais d'entretien, s'appliquent par analogie.
