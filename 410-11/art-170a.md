@@ -1,0 +1,2 @@
+# Art. 170a Prolongation de la période administrative échéant le 31 juillet 2010
+La période administrative des enseignants des classes enfantines, primaires et secondaires, échéant le 31 juillet 2010, est prolongée jusqu'au 31 décembre 2010. Demeurent réservés les cas pour lesquels, à l'entrée en vigueur du présent article, l'autorité de nomination a déjà informé l'enseignant concerné qu'elle entendait renoncer à ses services.

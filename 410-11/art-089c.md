@@ -1,0 +1,3 @@
+# Art. 89c c) Fin du retrait
+Lorsque la cause qui a justifié le retrait de l'autorisation d'enseigner a cessé d'exister, la décision de retrait doit être rapportée. La Conférence suisse des directeurs de l'Instruction publique en est informée sans délai.
+CHAPITRE II : …
