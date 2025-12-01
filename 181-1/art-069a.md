@@ -1,0 +1,3 @@
+# Art. 69a Suspension et autres mesures provisionnelles
+1 S'il apparaît d'emblée qu'une destitution est inévitable, le Conseil de surveillance peut suspendre l'intéressé provisoirement. Cette mesure peut être accompagnée de la suppression totale ou partielle du traitement. Durant la suspension, l'intéressé reste affilié aux assurances et à l'institution de prévoyance. Si la suspension se révèle injustifiée, l'intéressé est réintégré dans ses droits. Il recouvre notamment le traitement dont il a été privé. Ses prétentions en dommages et intérêts sont réservées.
+2 D'autres mesures provisionnelles peuvent être prises afin de conserver un état de fait ou de droit ou pour sauvegarder des intérêts menacés.
