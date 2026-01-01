@@ -1,0 +1,2 @@
+# Art. 77a 3. Chiroprati- ciens
+Les chiropraticiens au bénéfice d'une autorisation de pratiquer à titre indépendant, délivrée par le Service de la santé publique, au moment de l'entrée en vigueur de la modification de l'article 45 sont tenus de présenter une demande d'autorisation au Département de la Santé et des Affaires sociales dans les six mois qui suivent l'entrée en vigueur de ladite modification.

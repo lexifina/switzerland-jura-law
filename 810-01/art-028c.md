@@ -1,0 +1,8 @@
+# Art. 28c Commission de surveillance des droits des patients
+1 Afin d’assurer le respect des dispositions légales relatives aux droits des patients, le Gouvernement nomme une commission ayant pour mandat de surveiller, sous cet angle, les établissements hospitaliers et médico-sociaux. Les tâches de la commission sont notamment les suivantes :
+a) émettre des directives et des instructions et, sur demande, prodiguer des conseils;
+b) veiller au respect des règles d’éthique médicale et des soins dans les établissements;
+c) instruire et statuer sur les cas de violation des dispositions des droits des patients dont elle prend connaissance par elle-même ou qui lui sont dénoncés sur plainte; demeure réservée la compétence de l'autorité de protection de l'enfant et de l'adulte de statuer sur les plaintes relatives aux mesures de contrainte;
+d) procéder à des inspections et à des contrôles destinés à assurer le respect des dispositions générales relatives aux droits des patients.
+2 Lorsqu'elle statue au sens de l'alinéa 1, lettre c, la commission constate l'existence ou l'inexistence d'une violation des dispositions légales conférant des droits au patient et propose aux autorités compétentes les mesures utiles propres à éviter de nouvelles infractions à ces dispositions.
+3 Une ordonnance du Gouvernement règle la composition de la commission. Celle-ci comprend au moins une personne représentative des patients, un représentant des professions médicales, un représentant des professions de la santé et un juriste. Le Gouvernement règle en outre le détail de ses compétences et la procédure de plainte. Le médiateur nommé conformément à l’article 24a est membre de cette commission, avec voix consultative.

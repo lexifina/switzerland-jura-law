@@ -1,0 +1,6 @@
+# Art. 8b Registre cantonal des tumeurs
+1 L’Etat met en place un registre cantonal des tumeurs à des fins de surveillance épidémiologique des maladies oncologiques, d'évaluation des programmes de dépistage précoce, de recherche sur les maladies oncologiques et de promotion de la qualité des soins aux patients.
+2 Le Gouvernement peut déléguer la tenue du registre cantonal des tumeurs à une entité tierce. Il s’assure que les règles en matière de sécurité des données soient respectées.
+3 Les dispensateurs de soins et les organisations chargées des programmes de dépistage précoce sont tenus de participer à l'établissement du registre cantonal des tumeurs en fournissant les données nécessaires conformément à la législation fédérale et cantonale.
+4 Le registre cantonal des tumeurs communique aux organisations chargées des programmes de dépistage précoce les données nécessaires à l’assurance qualité avec le numéro AVS des patients ayant participé à un tel programme.
+5 Le registre cantonal des tumeurs peut collecter d’autres données sur les maladies oncologiques que celles prévues par le droit fédéral. Il peut également collecter des données sur d’autres maladies. Le Gouvernement en dresse la liste par voie d’ordonnance.

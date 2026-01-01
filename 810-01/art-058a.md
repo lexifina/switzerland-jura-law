@@ -1,0 +1,2 @@
+# Art. 58a Médecins scolaires et infirmiers scolaires
+Dans le cadre d'une procédure en cours, les médecins scolaires et les infirmiers scolaires peuvent fournir aux autorités de poursuite pénale ainsi qu'à l'autorité de protection de l'enfant et de l'adulte les documents nécessaires et communiquer les informations requises, à moins que des intérêts dignes de protection ne s'y opposent. L'article 453 du Code civil suisse est réservé.

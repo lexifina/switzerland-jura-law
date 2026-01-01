@@ -1,0 +1,2 @@
+# Art. 58b Gestion des menaces et prévention de la violence
+Les personnes exerçant une profession sanitaire et leurs auxiliaires, désignés référents en application de l'article 47c, alinéa 1, lettre g, de la loi du 28 janvier 2015 sur la police cantonale, peuvent, en dépit du secret professionnel, informer la police cantonale de toute menace concrète susceptible de porter gravement atteinte à l'intégrité physique, psychique ou sexuelle de tiers au sens de l'article 47a de la loi sur la police cantonale.
