@@ -1,0 +1,2 @@
+# Art. 6a Droit transitoire pour les entreprises ayant leur siège à Moutier
+Les employeurs visés à l’article 5d de la loi portant introduction à la loi fédérale sur l’égalité entre femmes et hommes, dont le siège de l’entreprise se situe à Moutier au moment de la date du transfert de la commune de Moutier dans le canton du Jura, doivent avoir effectué la première analyse de l’égalité des salaires le 30 juin 2026 au plus tard.
