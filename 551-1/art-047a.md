@@ -1,0 +1,2 @@
+# Art. 47a But
+Le concept de gestion des menaces et de prévention de la violence a pour but la détection précoce et la prévention de la commission d’infractions par des personnes dont le comportement ou les propos laissent supposer une tendance marquée à la violence dirigée contre les tiers et qui sont susceptibles de porter gravement atteinte à l’intégrité physique, psychique ou sexuelle de tiers (dénommées ci-après : "personnes à risque").

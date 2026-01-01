@@ -1,0 +1,5 @@
+# Art. 102b Echange électronique de données dans le cadre de la recherche automatisée de véhicules
+1 Aux fins mentionnés à l’article 102a, alinéa 1, la police cantonale peut, par le biais d’une procédure d’appel en ligne :
+a) obtenir des données relatives à la recherche automatisée de véhicules auprès des autorités de police fédérales, cantonales ou communales, de la police nationale du Liechtenstein, de l’Office fédéral des routes et de l’Office fédéral de la douane et de la sécurité des frontières et traiter les données ainsi collectées conformément à l’article 102a, alinéa 4;
+b) communiquer les données issues de la recherche automatisée de véhicules à des autorités de police fédérales, cantonales et communales, à la police nationale du Liechtenstein et à l’Office fédéral de la douane et de la sécurité des frontières.
+2 Elle peut établir des connexions techniques entre ses propres systèmes de traitement en matière de détection automatisée de véhicules et ceux des autorités citées à l’alinéa 1, lettres a et b.
