@@ -1,0 +1,4 @@
+# Art. 98d d) Modalités
+1 Le Gouvernement est habilité à fixer un délai durant lequel les employés qui souhaitent bénéficier de la garantie de reprise mentionnée à l’article 98a doivent s’annoncer. Ce délai est publié dans le Journal officiel. Faute d’annonce dans le délai, la garantie de reprise n’est plus donnée.
+2 Les employés concernés donnent leur démission en temps utile auprès du canton de Berne.
+3 Le Gouvernement règle, par voie d’ordonnance ou dans un accord d’exécution conclu avec le Conseil-exécutif du canton de Berne en application du concordat entre le canton de Berne et la République et Canton du Jura concernant le transfert de la commune municipale de Moutier dans le canton du Jura (ci-après : "accord d’exécution"), les modalités d’application de la reprise, en particulier pour les employés en incapacité de travail ou en formation.

@@ -1,0 +1,6 @@
+# Art. 56a b) Groupe de confiance
+1 Le Gouvernement institue un groupe de confiance, composé de médiateurs qui se tiennent à disposition des employés rencontrant des difficultés sur leur lieu de travail, pour une écoute et une résolution des conflits en toute confidentialité. Il peut confier cette tâche à des employés de l'Etat ou mandater un partenaire externe suisse, public ou privé.
+2 Dans la mesure nécessaire, les employés sont autorisés à exposer aux membres du groupe de confiance les faits relatifs aux difficultés rencontrées ainsi qu'à produire des documents, même si ces faits ou ces documents sont soumis au secret de fonction et susceptibles de contenir des données personnelles, y compris sensibles..
+3 Les membres du groupe de confiance suppriment toutes les données en leur possession après l'accomplissement de leur tâche.
+4 Toute personne collaborant, à un titre ou un autre, au sein d'un partenaire externe mandaté, susceptible de prendre connaissance du contenu des faits et des documents mentionnés à l'alinéa 2, est soumise au secret de fonction et à la législation cantonale en matière de protection des données.
+5 Avec l'accord des employés les ayant sollicités, les membres du groupe de confiance peuvent communiquer au Service des ressources humaine les médiations qui ont échoué et les situations qui, selon eux, nécessitent une intervention.

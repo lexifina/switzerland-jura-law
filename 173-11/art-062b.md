@@ -1,0 +1,5 @@
+# Art. 62b
+1 Pour les employés de l’administration cantonale, le Service des ressources humaines et le supérieur hiérarchique ou le chef de l'unité administrative de l'employé préparent et signent conjointement le certificat ou l'attestation.
+2 Pour les enseignants, le certificat est préparé par la direction du cercle scolaire ou de la division du Service de la formation postobligatoire concernée et transmis, avec leur signature, au Service de l'enseignement ou au Service de la formation postobligatoire à fin de validation et de cosignature par le chef de l'unité administrative concernée. L’attestation est préparée et signée par le Service de l'enseignement, respectivement par le Service de la formation postobligatoire.
+3 Le Service de l'enseignement et le Service de la formation postobligatoire établissent, en collaboration avec le Service des ressources humaines, les certificats de travail et les attestations des membres des directions des écoles ou des divisions du Service de la formation postobligatoire.
+4 La requête est traitée dans un délai de 15 jours dans la mesure du possible.

@@ -1,0 +1,3 @@
+# Art. 98h c) Modalités
+1 Le Gouvernement est habilité à fixer, dans le cadre d’un accord d’exécution, une date de transfert des postes à l’Etat jurassien qui diffère de celle du transfert de la commune de Moutier. Le cas échéant, cette date est déterminante en lieu et place de la date du transfert de la commune de Moutier.
+2 Il règle, par voie d’ordonnance ou dans le cadre d’un accord d’exécution, les modalités d’application du transfert de poste, en particulier pour les employés en incapacité de travail ou en formation, ainsi que les modalités de transfert des données relatives aux employés.
