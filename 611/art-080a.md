@@ -1,0 +1,4 @@
+# Art. 80a Intégration de Moutier a) Neutralisation des effets
+1 Pendant les années 2026 à 2031, le résultat du compte de fonctionnement au sens de l’article 17a, alinéa 2, lettre b, est augmenté de la part supplémentaire de revenus provenant de la péréquation financière fédérale que le canton du Jura aurait reçue s’il avait été tenu compte dès l’année 2026 du potentiel de ressources de la commune de Moutier.
+2 Pendant les années 2026 à 2031, les investissements en lien avec le déplacement d’unités administratives sur le territoire de la commune de Moutier sont soustraits du montant total des investissements nets au sens de l’article 17a, alinéa 2, lettre c.
+3 Les montants neutralisés et leur amortissement au sens des alinéas 1 et 2 font l'objet d'un suivi dans un compte de compensation fonctionnant comme un instrument de contrôle hors bilan.
