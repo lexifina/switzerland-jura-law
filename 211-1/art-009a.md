@@ -1,0 +1,2 @@
+# Art. 9a lll. Recette et Administration de district
+La Recette et Administration de district est l'autorité compétente dans les cas ci-après prévus par le Code civil suisse: Art. 490, al. 1. Pour faire dresser inventaire de la succession échue au grevé de substitution. Art. 553 à 556. Pour prendre les mesures propres à assurer la dévolution de l'hérédité et recevoir les testaments découverts lors du décès, sous réserve des articles 54 à 56a de la présente loi. Art. 592. Pour faire dresser inventaire d'une succession dévolue au Canton.

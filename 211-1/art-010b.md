@@ -1,0 +1,7 @@
+# Art. 10b VI. Service juridique
+1 Le Service juridique est chargé d'exécuter la surveillance électronique prononcée en vertu de l'article 28c, alinéa 1, du Code civil suisse, en particulier d'installer les appareils, de recevoir les données, d'en prendre connaissance et, en cas de non-respect des conditions posées, d'en informer le juge qui a ordonné la surveillance de l'interdiction.
+2 Le Gouvernement définit, par voie d'ordonnance, les modalités applicables à l'exécution de la surveillance électronique. Il fixe en particulier les règles de participation de la personne surveillée aux coûts.
+3 Le juge qui a ordonné la surveillance de l'interdiction peut en tout temps prendre connaissance des données relatives à l'utilisation des appareils.
+4 En cas de non-respect des conditions et des charges ou de sollicitation dans le cadre d'une enquête pénale en cours, le juge qui a ordonné la surveillance de l'interdiction est habilité à transmettre ces données aux autorités de police et aux autorités judiciaires compétentes. Cette compétence peut être déléguée, par voie d'ordonnance, au Service juridique.
+5 Le cas échéant, les données peuvent également être transmises aux autorités étrangères du lieu où se situe la personne surveillée.
+6 Les données récoltées sont conservées douze mois après la fin de la mesure. Une autorité judiciaire peut demander l'extraction et l'enregistrement des données sur un support indépendant en vue de sa conservation dans le cadre d'une procédure judiciaire.

@@ -1,0 +1,2 @@
+# Art. 55b lV. Testaments 1. Annonce au registre central
+Les testaments publics et les pactes successoraux instrumentés par les notaires de même que les testaments olographes déposés auprès d'eux ou auprès des communes (art. 9, al. 1) sont annoncés au registre central suisse des testaments aux frais du testateur, sauf dispense expresse de ce dernier. L'annonce est faite par le notaire ou par la commune.
