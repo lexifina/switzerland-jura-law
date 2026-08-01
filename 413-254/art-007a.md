@@ -1,0 +1,3 @@
+# Art. 7a b) dès 60 ans
+1 En lieu et place de l'allégement prévu à l'article 7 et dès le début de l'année scolaire qui suit celle au cours de laquelle l'enseignant atteint l'âge de 60 ans, l'horaire hebdomadaire complet, au sens de l'article 5, alinéas 2 et 3, est réduit de 2 périodes.
+2 A l'école des métiers techniques rattachée à la division technique, au sein des ateliers de formation pratique rattachés à la division artisanale ainsi que dans les classes et les ateliers en charge de l'Agenda intégration suisse rattachés à l'unité de formation continue, la durée annuelle globale d'enseignement à plein temps, au sens de l'article 5, alinéa 4, est réduite de 86 heures.
