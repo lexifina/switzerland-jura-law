@@ -1,0 +1,3 @@
+# Art. 51b Mesures de préparation à la formation générale et professionnelle
+1 L'élève qui achève sa scolarité obligatoire et ne remplit pas les conditions requises pour accéder à une filière de formation du degré secondaire II, qui souhaite consolider ses compétences et connaissances avant de commencer une formation ou mûrir son projet scolaire ou professionnel tout en consolidant ses compétences et connaissances, ou qui, en raison de difficultés personnelles, ne peut entreprendre un apprentissage, peut bénéficier de mesures de préparation à la formation générale ou professionnelle.
+2 Ces mesures sont soumises à la législation sur l'enseignement et la formation des niveaux secondaire II et tertiaire.

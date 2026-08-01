@@ -1,0 +1,4 @@
+# Art. 144a Banques de données
+1 Les contenus des banques de données doivent se limiter aux informations courantes nécessaires à la gestion des écoles et au suivi de la carrière scolaire des élèves. Sont notamment exclues les informations relatives au comportement, à la situation familiale ou au dossier médical des élèves.
+2 Le catalogue des données est soumis, pour ratification, à la Commission cantonale pour la protection des données.
+3 L'accès à tout ou partie d'une base de données est strictement limité pour les contributeurs et pour les utilisateurs. Les contributeurs et les utilisateurs n'ont accès qu'aux données qui les concernent, sur la base de listes établies préalablement par le Département. Pour les utilisateurs, les données sont rendues anonymes chaque fois que cela est possible.
