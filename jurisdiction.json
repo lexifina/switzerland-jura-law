@@ -1,0 +1,11 @@
+{
+  "path": "ch-ju",
+  "code": "CH-JU",
+  "name": "Jura",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-jura-law",
+  "build": "built: 420 acts, 420 versions",
+  "language": "fr",
+  "sources": 1
+}
